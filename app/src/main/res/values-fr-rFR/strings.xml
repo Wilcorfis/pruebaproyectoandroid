@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">test</string>
+    <string name="texto_app">Je cherche des amis et copines</string>
+    <string name="titulo_app">My Hello World est moche</string>
+</resources>
